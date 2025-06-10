@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-size: 100vw 100vh;
-    background-image: url(tyrants-counter/images/tyrant.webp);
+    background-image: url(../images/tyrant.webp);
 }
 
 h1 {
